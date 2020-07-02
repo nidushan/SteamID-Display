@@ -16,9 +16,6 @@ Note! Some things will be fixed or changed on a future update!
 - Copy SteamIDs from friends management list.
 ```
 
-**If you have any suggestions, please don't be shy! Contact me!**
+### If you have any suggestions, please don't be shy! Contact me!
+[My webiste](http://nidushan.com/) and ![Image](https://i.imgur.com/uOkTrzA.png)
 
-[Link](url) and ![Image](https://imgur.com/uOkTrzA)
-
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
