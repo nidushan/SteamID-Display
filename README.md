@@ -2,7 +2,7 @@
 
 This chrome extention will let you see steamIDs of the corresponding profile you are looking at.
 You can even copy your friends SteamID by right-clicking and selecting *"Steam ID Display -- Copy SteamID"*.
-The main purpose is to help admins find players ID
+The main purpose is to help admins find players ID.
 If you need more formats, visit steamid.io
 
 ## How it works?
