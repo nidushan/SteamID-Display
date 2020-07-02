@@ -1,8 +1,20 @@
-## Welcome to GitHub Pages
+## SteamID Display by Nidushan
 
-You can use the [editor on GitHub](https://github.com/xNidushan/SteamID-Display/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You will see steamIDs of the corresponding profile you are looking at.
+You can even copy your friends SteamID by right-clicking and selecting "Steam ID Display -- Copy SteamID".
+The main purpose is to help admins find players ID
+If you need more formats, visit steamid.io
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gratitude to:
+xPaw for providing a reliable steamID library
+Valve for providing an API
+
+Note! Some things will be fixed or changed on a future update!
+- Make the extension work for private profiles
+- SteamID Display will only show steamID (STEAM_X:Y:ZZZZZZZZ) as other IDs aren't that common.
+- Copy SteamIDs from friends management list.
+
+If you have any suggestions, please don't be shy! Contact me!
 
 ### Markdown
 
