@@ -21,23 +21,5 @@ Note! Some things will be fixed or changed on a future update!
 ### If you have any suggestions, please don't be shy! Contact me!
 [My webiste](http://nidushan.com/)
 
-
-  <a target="_blank" href="https://i.imgur.com/lCLJCRo.png">
-    <img src="https://i.imgur.com/lCLJCRo.png" alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-
-
-
-  <a target="_blank" href="https://i.imgur.com/5ltWc71g.png">
-    <img src="https://i.imgur.com/5ltWc71g.png" alt="Forest" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-
-<div class="gallery">
-  <a target="_blank" href="https://i.imgur.com/vSiqC8c.png">
-    <img src="https://i.imgur.com/vSiqC8c.png" alt="Northern Lights" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+<img src="https://i.imgur.com/lCLJCRo.png" alt="Cinque Terre"><img src="https://i.imgur.com/5ltWc71g.png" alt="Forest"><img src="https://i.imgur.com/vSiqC8c.png" alt="Northern Lights">
 
