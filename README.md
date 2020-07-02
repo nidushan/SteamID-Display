@@ -12,6 +12,11 @@ You can click on the steamID highlighted in **white** and it will automatically 
 
 ## How to install?
 I will upload this soon to chrome webstore, but getting a developer licence costs money... 
+For now you must manually do it.
+1) Download and extract the folder: [Downloadlink](https://github.com/xNidushan/SteamID-Display/raw/master/SteamID%20Display.rar)You can download the winrar file from the repo itself. 
+2) At the top right, click More <img src="https://lh3.googleusercontent.com/E2q6Vj9j60Dw0Z6NZFEx5vSB9yoZJp7C8suuvQXVA_2weMCXstGD7JEvNrzX3wuQrPtL"> <img src="https://lh3.googleusercontent.com/QbWcYKta5vh_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g"> More tools <img src="https://lh3.googleusercontent.com/QbWcYKta5vh_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g"> Extensions.
+3) Navigate to the <img src="https://i.imgur.com/loRQTvQ.png"> and select the "SteamID Display folder"
+**NB You must keep the "SteamID Display" folder for the extention to work!
 
 **Gratitude to:**
 <br>xPaw for providing a reliable steamID library
