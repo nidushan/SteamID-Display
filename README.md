@@ -29,7 +29,7 @@ Note! Some things will be fixed or changed on a future update!
 ```
 - Make the extension work for private profiles
 - Convert and port extention to Firefox
-- SteamID Display will only show steamID (STEAM_X:Y:ZZZZZZZZ) as other ID formats aren't that commonly used.
+- Change so only steamID (STEAM_X:Y:ZZZZZZZZ) shows as other ID formats aren't commonly used.
 - Copy SteamIDs from friends management list.
 ```
 
