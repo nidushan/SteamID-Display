@@ -16,8 +16,8 @@ I will upload this soon to chrome webstore, but getting a developer licence cost
 1) Download and extract the folder: [Download link](https://github.com/xNidushan/SteamID-Display/raw/master/SteamID%20Display.rar) 
 <br>You can download the winrar file from the repo itself. [Repo](https://github.com/xNidushan/SteamID-Display/blob/master/SteamID%20Display.rar) 
 2) At the top right of Chrome, click More <img src="https://lh3.googleusercontent.com/E2q6Vj9j60Dw0Z6NZFEx5vSB9yoZJp7C8suuvQXVA_2weMCXstGD7JEvNrzX3wuQrPtL"> <img src="https://lh3.googleusercontent.com/QbWcYKta5vh_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g"> More tools <img src="https://lh3.googleusercontent.com/QbWcYKta5vh_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g"> Extensions.
-3) Navigate to the <img src="https://i.imgur.com/loRQTvQ.png"> and select the "SteamID Display folder"
-**NB You must keep the "SteamID Display" folder for the extention to work!**
+3) Navigate to the <img src="https://i.imgur.com/loRQTvQ.png"> and select the extracted folder *"SteamID Display folder"*
+<br>**NB You must keep the "SteamID Display" folder for the extention to work!**
 
 **Gratitude to:**
 <br>xPaw for providing a reliable steamID library
@@ -26,7 +26,8 @@ I will upload this soon to chrome webstore, but getting a developer licence cost
 Note! Some things will be fixed or changed on a future update!
 ```
 - Make the extension work for private profiles
-- SteamID Display will only show steamID (STEAM_X:Y:ZZZZZZZZ) as other IDs aren't that common.
+- Convert and port extention to Firefox
+- SteamID Display will only show steamID (STEAM_X:Y:ZZZZZZZZ) as other ID formats aren't that commonly used.
 - Copy SteamIDs from friends management list.
 ```
 
