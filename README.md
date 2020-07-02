@@ -17,7 +17,9 @@ I will upload this soon to chrome webstore, but getting a developer licence cost
 <br>You can download the winrar file from the repo itself. [Repo](https://github.com/xNidushan/SteamID-Display/blob/master/SteamID%20Display.rar) 
 2) At the top right of Chrome, click More <img src="https://lh3.googleusercontent.com/E2q6Vj9j60Dw0Z6NZFEx5vSB9yoZJp7C8suuvQXVA_2weMCXstGD7JEvNrzX3wuQrPtL"> <img src="https://lh3.googleusercontent.com/QbWcYKta5vh_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g"> More tools <img src="https://lh3.googleusercontent.com/QbWcYKta5vh_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g"> Extensions.
 3) Navigate to the <img src="https://i.imgur.com/loRQTvQ.png"> and select the extracted folder *"SteamID Display folder"*
-<br>**NB You must keep the "SteamID Display" folder for the extention to work!**
+<br>**NB! 
+<br>You must keep the "SteamID Display" folder for the extention to work!
+<br>Save the folder to a place were you wont delete it. If you change location of the folder, then you need to update/refresh the extention**
 
 **Gratitude to:**
 <br>xPaw for providing a reliable steamID library
@@ -31,8 +33,9 @@ Note! Some things will be fixed or changed on a future update!
 - Copy SteamIDs from friends management list.
 ```
 
-### If you have any suggestions, please don't be shy! Contact me!
+## If you have any suggestions, please don't be shy! Contact me!
 [My webiste](http://nidushan.com/)
+<br>*This extention was made for HeLL Clan Admins*
 
 <img src="https://i.imgur.com/lCLJCRo.png" alt="Cinque Terre"><img src="https://i.imgur.com/5ltWc71g.png" alt="Forest">
 
