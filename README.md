@@ -16,7 +16,7 @@ I will upload this soon to chrome webstore, but getting a developer licence cost
 <br>1) Download and extract the folder: [Download link](https://github.com/xNidushan/SteamID-Display/raw/master/SteamID%20Display.rar) 
 <br>You can download the winrar file from the repo itself. [Repo](https://github.com/xNidushan/SteamID-Display/blob/master/SteamID%20Display.rar) 
 <br>2) At the top right of Chrome, click More <img src="https://lh3.googleusercontent.com/E2q6Vj9j60Dw0Z6NZFEx5vSB9yoZJp7C8suuvQXVA_2weMCXstGD7JEvNrzX3wuQrPtL"> <img src="https://lh3.googleusercontent.com/QbWcYKta5vh_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g"> More tools <img src="https://lh3.googleusercontent.com/QbWcYKta5vh_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g"> Extensions.
-<br>3) Navigate to the <img src="https://i.imgur.com/loRQTvQ.png"> and select the extracted folder *"SteamID Display folder"*
+<br>3) Navigate to the <img src="https://i.imgur.com/loRQTvQ.png"> and select the extracted folder *"SteamID Display"*
 <br>**NB! 
 <br>You must keep the "SteamID Display" folder for the extention to work!
 <br>Save the folder to a place were you wont delete it. If you change location of the folder, then you need to update/refresh the extention**
