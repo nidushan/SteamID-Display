@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/uOkTrzA.png">
-</p>
+<img align="center" src="https://i.imgur.com/uOkTrzA.png">
 
 This chrome extention will let you see steamIDs of the corresponding profile you are looking at.
 You can even copy your friends SteamID by right-clicking and selecting "Steam ID Display -- Copy SteamID".
