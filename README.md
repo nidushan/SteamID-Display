@@ -4,6 +4,7 @@ This chrome extention will let you see steamIDs of the corresponding profile you
 You can even copy your friends SteamID by right-clicking and selecting *"Steam ID Display -- Copy SteamID"*.
 The main purpose is to help admins find players ID.
 If you need more formats, visit steamid.io
+<h1>https://chrome.google.com/webstore/detail/steamid-display/ldkfpahjhbighlajfnbehegfpmjpfgmj</h1>
 
 ## How it works?
 You can click on the steamID highlighted in **white** and it will automatically copy that steamID to your clipboard.
