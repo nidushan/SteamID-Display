@@ -36,7 +36,7 @@ Note! Some things will be fixed or changed on a future update!
 
 ## If you have any suggestions, please don't be shy! Contact me!
 Website at [nidushan.com](http://nidushan.com/)
-<br>*This extention was made for [HeLL Clan](http://hellclan.co.uk/) Admins*
+<br>*This extention was made for [HeLL Clan](http://hellclan.co.uk/) & [Unloze](http://unloze.com/)  Admins*
 
 <img src="https://i.imgur.com/lCLJCRo.png" alt="Cinque Terre"><img src="https://i.imgur.com/5ltWc71g.png" alt="Forest">
 
