@@ -1,0 +1,19 @@
+.steam-ids {
+  max-height: 0;
+  overflow: hidden;
+  transition: 0.5s max-height;
+}
+
+.steam-ids--visible {
+  max-height: 100px;
+}
+
+.steam-ids__id-name {
+  padding: 5px 5px 5px 0;
+}
+
+.steam-ids__id-copy {
+  padding: 5px;
+  cursor: pointer;
+  transition: 0.25s;
+}
