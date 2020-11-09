@@ -11,8 +11,8 @@ You can click on the steamID highlighted in **white** and it will automatically 
 <br><img src="https://i.ibb.co/2jgTZxr/Webp-net-resizeimage-1.png" alt="Monkey">
 
 
-## How to install?
-I will upload this soon to chrome webstore, but getting a developer licence costs money... 
+## How to install? Install it now on [Chrome webstore!](https://chrome.google.com/webstore/detail/steamid-display/ldkfpahjhbighlajfnbehegfpmjpfgmj)
+Follow this section for a offline tutorial, however try out the official chrome webstore extension.
 <br>For now you must manually do it.
 <br>1) Download and extract the folder: [Download link](https://github.com/xNidushan/SteamID-Display/raw/master/SteamID%20Display.rar) 
 <br>You can download the winrar file from the repo itself. [Repo](https://github.com/xNidushan/SteamID-Display/blob/master/SteamID%20Display.rar) 
