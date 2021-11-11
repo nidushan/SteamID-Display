@@ -33,7 +33,6 @@ Note! Some things will be fixed or changed on a future update!
 ```
 
 ## If you have any suggestions, please don't be shy! Contact me!
-Website at [nidushan.com](http://nidushan.com/)
 <br>*This extention is dedicated by to [Unloze](http://unloze.com/)  Admins*
 
 <img src="https://i.ibb.co/jVhp7pR/Bilde3.png" alt="Cinque Terre"><img src="https://lh3.googleusercontent.com/mer2efmzXqUL3xkl7ehZDOWGdVqL1jfg5N3HiAr2D3RrTILRMsHa3ewzaWT5o-DxQRm9SsawnA=w640-h400-e365-rj-sc0x00ffffff" alt="Forest">
