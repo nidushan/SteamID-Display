@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/sfSSVKW.png"></p>
+<p align="center"><img src="https://i.ibb.co/9H2W1BX/Picture2.png"></p>
 
 This chrome extention will let you see steamIDs of the corresponding profile you are looking at.
 You can even copy your friends SteamID by right-clicking and selecting *"Steam ID Display -- Copy SteamID"*.
@@ -8,8 +8,6 @@ If you need more formats, visit steamid.io
 
 ## How it works?
 You can click on the steamID highlighted in **white** and it will automatically copy that steamID to your clipboard.
-<br><img src="https://i.ibb.co/9H2W1BX/Picture2.png" alt="Monkey">
-
 
 ## How to install? Install it now on [Chrome webstore!](https://chrome.google.com/webstore/detail/steamid-display/ldkfpahjhbighlajfnbehegfpmjpfgmj)
 Follow this section for a offline tutorial, however try out the official chrome webstore extension.
