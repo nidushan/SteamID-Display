@@ -33,4 +33,4 @@ Note! Some things will be fixed or changed on a future update!
 ```
 
 ## If you have any suggestions, please don't be shy! Contact me!
-<br>*This extention is dedicated by to [Unloze](http://unloze.com/)  Admins*
+<br>This extension is dedicated to [Unloze](http://unloze.com/) Admins
